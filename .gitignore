@@ -1,4 +1,9 @@
 # Distribution / packaging
 node_modules
+node_modules/
+.npm-cache/
+*.cookies
+evidence/
+github-fork-response.json
 
 
